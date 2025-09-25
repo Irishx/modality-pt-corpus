@@ -1,1 +1,6 @@
+The CRPC-Modal Corpus  is composed of full-text files, extracted from the written subpart of the Reference Corpus of Contemporary Portuguese (Généreux et al, 2012). Most texts are
+news articles, but there are also a few fiction and scientific texts, and texts from varia. Contrary to Modality Corpus 1, where single sentences were extracted and annotated, in the
+CRPC--Modal Corpus, the annotator had access to the full text and could consider the larger context to disambiguate the modal values. TThe CRPC-Modal Corpus is annotated with the annotation guidelines Version 3.0 follows the slightly modified version of the modality annotation scheme presented in version 2.0, in line with the published unified schema detailed in Ávila et al. (2015).
+
+Luciana Beatriz Ávila, Amália Mendes, and Iris Hendrickx. 2015. Towards a Unified Approach to Modality Annotation in Portuguese. In Proceedings of the Workshop on Models for Modality Annotation, London, UK. Association for Computational Linguistics. https://aclanthology.org/W15-0301/
 
